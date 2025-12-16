@@ -114,7 +114,7 @@ const RecipientDetailPage = () => {
 
   const handleBankSubmit = () => {
     if (!validateBank()) return;
-    setSuccess("Bank Details successfully submitted");
+    setSuccess("Bank Details successfully submitted. Please wait...");
     setIsSubmiting(true);
 
     setTimeout(() => {
