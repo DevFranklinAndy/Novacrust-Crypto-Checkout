@@ -77,7 +77,7 @@ Each trade-off is reversible once the flow is validated (There are plans for imp
 
 ## Routes / Links
 
-- **Recipient Details Page:** [https://novacrust-crypto-checkout-ten.vercel.app/recipient-details](https://novacrust-crypto-checkout-ten.vercel.app/recipient-details)
+- **Recipient Details Page:** [https://novacrust-crypto-checkout-ten.vercel.app](https://novacrust-crypto-checkout-ten.vercel.app)
 - **Confirmation Page:** [https://novacrust-crypto-checkout-ten.vercel.app/confirm](https://novacrust-crypto-checkout-ten.vercel.app/confirm)
 - **Crypto Page:** [https://novacrust-crypto-checkout-ten.vercel.app/crypto](https://novacrust-crypto-checkout-ten.vercel.app/crypto)
 - **Send Ethereum Page:** [https://novacrust-crypto-checkout-ten.vercel.app/send-eth](https://novacrust-crypto-checkout-ten.vercel.app/send-eth)
